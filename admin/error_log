@@ -1,0 +1,6 @@
+[11-Sep-2020 10:48:31 UTC] PHP Notice:  Undefined variable: jela in /home/dhakacit/public_html/admin/all-customer.php on line 55
+[11-Sep-2020 10:49:13 UTC] PHP Notice:  Undefined variable: jela in /home/dhakacit/public_html/admin/all-customer.php on line 55
+[12-Sep-2020 09:19:17 UTC] PHP Notice:  Undefined variable: comm in /home/dhakacit/public_html/admin/add-admin.php on line 16
+[12-Sep-2020 09:19:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dhakacit/public_html/admin/add-admin.php on line 16
+[12-Sep-2020 09:27:06 UTC] PHP Notice:  Undefined variable: comm in /home/dhakacit/public_html/admin/add-admin.php on line 17
+[12-Sep-2020 09:27:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dhakacit/public_html/admin/add-admin.php on line 17

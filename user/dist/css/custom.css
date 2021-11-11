@@ -1,0 +1,104 @@
+
+table tr th{
+font-weight: bold;
+    font-size: 15px;
+
+}
+label{
+    font-weight: bold;
+    font-size: 15px;
+}
+.bg-main{
+    background: #2CAA0C;
+}
+.main-color{
+    color: #2CAA0C;
+}
+
+.btn-main {
+	background: #2CAA0C;
+	padding: 10px 20px;
+	border: 1px solid #2CAA0C;
+	font-weight: 600;
+}
+.btn-main:hover{
+    background: #fff;
+    color: #2CAA0C;
+    border: 1px solid #2CAA0C;
+}
+
+.height-130{
+    height: 130px;
+}
+.height-140{
+    height: 140px;
+}
+
+.width-100{
+    width: 100%;
+}
+.mous-hover{
+    cursor: pointer;
+    
+}
+
+.profile-balance{text-align: center;height: 100px;margin: 10px 0;border-radius: 5px;width: 100%;padding: 10px 0;}
+.profile-balance h3{color: #fff;font-size: 40px;font-weight: bold;}
+.profile-balance h3 span img{height: 35px;}
+.profile-balance p{color: #fff;font-size: 15px;}
+
+.profile-image{
+    padding-top: 10px;
+}
+/*----================================
+============ Dashbord ==============*/
+.deshbord-payment-items{}
+.deshbord-payment-items img{}
+.deshbord-payment-items h1{font-weight: bold;}
+.deshbord-payment-items h1 span img{height: 25px; margin-top: -30px;}
+.deshbord-payment-items h6{}
+
+
+.registration{padding: 50px 0;}
+.registration-form {
+	border: 2px solid #2FA611;
+    padding: 0px 30px;
+}
+.registration-form .input-group img {
+	border: 2px solid #2FA611;
+	border-radius: 100%;
+	margin-bottom: 25px;
+	height:250px;
+	width:250px;
+}
+.admin_couriar_account img{
+    height:250px;
+    width:250px;
+    
+}
+.registration-form .registra-logo{position: absolute;top: -35px;}
+.registration-form .input-group-prepend span{}
+.registration-form .registra-logo img{height: 70px;}
+.registration-form form{padding: 30px 10px;}
+
+
+
+.light-logo{
+    height: 70px;
+    width: 100%;
+}
+
+
+
+/*=============================== Responsive Desing ===========================*/
+
+@media screen and (min-device-width: 0px) and (max-device-width: 768px) { 
+    .registration-form{
+        padding: 0;
+    }
+    .deshbord-reports{
+    width: 100%;
+}
+
+}
+

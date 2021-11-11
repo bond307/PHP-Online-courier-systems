@@ -1,0 +1,57 @@
+[11-Sep-2020 08:54:54 UTC] PHP Notice:  Undefined variable: amount in /home/dhakacit/public_html/user/withdraw.php on line 16
+[11-Sep-2020 08:54:54 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 16
+[11-Sep-2020 08:54:54 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 47
+[11-Sep-2020 08:54:54 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 48
+[11-Sep-2020 08:57:11 UTC] PHP Notice:  Undefined variable: amount in /home/dhakacit/public_html/user/withdraw.php on line 16
+[11-Sep-2020 08:57:11 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 16
+[11-Sep-2020 08:57:11 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 47
+[11-Sep-2020 08:57:11 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 48
+[11-Sep-2020 09:00:50 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dhakacit/public_html/user/withdraw.php on line 20
+[11-Sep-2020 09:01:02 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dhakacit/public_html/user/withdraw.php on line 20
+[11-Sep-2020 09:02:28 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 47
+[11-Sep-2020 09:02:28 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 48
+[11-Sep-2020 09:02:34 UTC] PHP Notice:  Undefined variable: amount in /home/dhakacit/public_html/user/withdraw.php on line 16
+[11-Sep-2020 09:02:34 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 16
+[11-Sep-2020 09:02:34 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 47
+[11-Sep-2020 09:02:34 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 48
+[11-Sep-2020 09:03:35 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 47
+[11-Sep-2020 09:03:35 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 48
+[11-Sep-2020 09:03:42 UTC] PHP Notice:  Undefined variable: amount in /home/dhakacit/public_html/user/withdraw.php on line 16
+[11-Sep-2020 09:03:42 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 16
+[11-Sep-2020 09:03:42 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 47
+[11-Sep-2020 09:03:42 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 48
+[11-Sep-2020 09:07:03 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 92
+[11-Sep-2020 09:07:03 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 93
+[11-Sep-2020 09:07:13 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 61
+[11-Sep-2020 09:07:13 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 74
+[11-Sep-2020 09:07:13 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 92
+[11-Sep-2020 09:07:13 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 93
+[11-Sep-2020 09:08:58 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 92
+[11-Sep-2020 09:08:58 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 93
+[11-Sep-2020 09:09:10 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 61
+[11-Sep-2020 09:09:10 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 74
+[11-Sep-2020 09:09:10 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 92
+[11-Sep-2020 09:09:10 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 93
+[11-Sep-2020 09:09:46 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 61
+[11-Sep-2020 09:09:46 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 74
+[11-Sep-2020 09:09:46 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 92
+[11-Sep-2020 09:09:46 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 93
+[11-Sep-2020 09:10:03 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 61
+[11-Sep-2020 09:10:03 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 74
+[11-Sep-2020 09:10:03 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 92
+[11-Sep-2020 09:10:03 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 93
+[11-Sep-2020 09:10:20 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 92
+[11-Sep-2020 09:10:20 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 93
+[11-Sep-2020 09:10:20 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 92
+[11-Sep-2020 09:10:20 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 93
+[11-Sep-2020 09:10:22 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 92
+[11-Sep-2020 09:10:22 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 93
+[11-Sep-2020 09:10:56 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 92
+[11-Sep-2020 09:10:56 UTC] PHP Notice:  Undefined variable: curnt_balance in /home/dhakacit/public_html/user/withdraw.php on line 93
+[11-Sep-2020 10:06:45 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/dhakacit/public_html/user/withdraw.php on line 64
+[11-Sep-2020 10:06:46 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/dhakacit/public_html/user/withdraw.php on line 64
+[11-Sep-2020 16:06:33 UTC] PHP Notice:  Undefined index: thana in /home/dhakacit/public_html/user/registration.php on line 26
+[12-Sep-2020 08:06:34 UTC] PHP Notice:  Undefined index: thana in /home/dhakacit/public_html/user/registration.php on line 26
+[12-Sep-2020 08:13:33 UTC] PHP Parse error:  syntax error, unexpected 't' (T_STRING) in /home/dhakacit/public_html/user/forgetpass.php on line 30
+[12-Sep-2020 08:13:36 UTC] PHP Parse error:  syntax error, unexpected 't' (T_STRING) in /home/dhakacit/public_html/user/forgetpass.php on line 30
+[12-Sep-2020 08:13:45 UTC] PHP Parse error:  syntax error, unexpected 't' (T_STRING) in /home/dhakacit/public_html/user/forgetpass.php on line 30
